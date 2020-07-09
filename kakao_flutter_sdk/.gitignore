@@ -1,0 +1,16 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+coverage/
+.idea/
+*.iml
+
+*.log
+
+.flutter-plugins
+doc/
+.vscode
